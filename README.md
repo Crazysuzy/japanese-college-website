@@ -88,7 +88,7 @@ A modern, interactive website for **WuWAadi School**, designed to showcase the s
 
 1. Clone the repository:
 
-git clone [[https://github.com/Crazysuzy/japanese-college-website/]](https://github.com/Crazysuzy/japanese-college-website/)
+git clone [https://github.com/Crazysuzy/japanese-college-website/](https://github.com/Crazysuzy/japanese-college-website/)
 Open index.html in your browser to view the website locally.
 
 Contribution
